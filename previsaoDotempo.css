@@ -1,0 +1,13 @@
+table {
+				border: none;
+}
+
+th, td {
+				border-bottom: 1px solid black;
+				text-align: center;
+				
+}
+
+tr:nth-child(odd) {
+				background-color: #FA5C62;
+}
